@@ -11,3 +11,6 @@ by [Felipe Rueda](https://twitter.com/ferueda)
 - [Selection Sort](https://github.com/ferueda/cs-in-js/blob/main/algorithms/selectionSort.js)
 
 ### Data Structures
+
+- [Linked List](https://github.com/ferueda/cs-in-js/blob/main/data-structures/linkedList.js)
+
