@@ -4,7 +4,7 @@ function binarySearch(list, item) {
   let mid, guess;
 
   while (low <= high) {
-    mid = Math.floor((numA + numB) / 2);
+    mid = Math.floor((high + low) / 2);
     guess = list[mid];
 
     if (guess === item) {
@@ -22,3 +22,7 @@ function binarySearch(list, item) {
 
   return null;
 }
+
+module.exports = {
+  binarySearch,
+};
