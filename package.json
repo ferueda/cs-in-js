@@ -1,0 +1,27 @@
+{
+  "name": "cs-in-js",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures implemented with JavaScript",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferueda/cs-in-js.git"
+  },
+  "keywords": [
+    "cs",
+    "algorithms",
+    "data",
+    "structures"
+  ],
+  "bugs": {
+    "url": "https://github.com/ferueda/cs-in-js/issues"
+  },
+  "homepage": "https://github.com/ferueda/cs-in-js#readme",
+  "author": "Felipe Rueda",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
