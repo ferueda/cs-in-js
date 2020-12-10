@@ -23,6 +23,4 @@ function binarySearch(list, item) {
   return null;
 }
 
-module.exports = {
-  binarySearch,
-};
+module.exports = binarySearch;
