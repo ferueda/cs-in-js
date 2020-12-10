@@ -1,5 +1,5 @@
 # Algorithms and Data Structures implemented with JavaScript
-by [Felipe Rueda]()
+by [Felipe Rueda](https://twitter.com/ferueda)
 
 ## Description
 
