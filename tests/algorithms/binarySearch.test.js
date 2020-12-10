@@ -1,5 +1,5 @@
 const { describe, test, expect } = require('@jest/globals');
-const binarySearch = require('../../algorithms/binary-search');
+const binarySearch = require('../../algorithms/binarySearch');
 
 describe('Binary Search', () => {
   test('should return', () => {
