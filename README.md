@@ -1,4 +1,7 @@
-## Algorithms and Data Structures implemented with JavaScript
+# Algorithms and Data Structures implemented with JavaScript
+by [Felipe Rueda]()
+
+## Description
 
 ## Index
 
