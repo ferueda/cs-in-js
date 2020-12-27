@@ -13,4 +13,5 @@ by [Felipe Rueda](https://twitter.com/ferueda)
 ### Data Structures
 
 - [Linked List](https://github.com/ferueda/cs-in-js/blob/main/data-structures/linkedList.js)
+- [The Stack](https://github.com/ferueda/cs-in-js/blob/main/data-structures/stack.js)
 
