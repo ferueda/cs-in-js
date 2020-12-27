@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Algorithms and Data Structures implemented with JavaScript",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "repository": {
     "type": "git",
