@@ -9,6 +9,7 @@ by [Felipe Rueda](https://twitter.com/ferueda)
 
 - [Binary Search](https://github.com/ferueda/cs-in-js/blob/main/algorithms/binarySearch.js)
 - [Selection Sort](https://github.com/ferueda/cs-in-js/blob/main/algorithms/selectionSort.js)
+- [Merge Sort](https://github.com/ferueda/cs-in-js/blob/main/algorithms/mergeSort.js)
 
 ### Data Structures
 
