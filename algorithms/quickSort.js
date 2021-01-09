@@ -1,5 +1,5 @@
 function partition(list, lower, higher) {
-  const pivot = list[Math.floor((lower + higher) / 2)];
+  const pivot = list[Math.floor(Math.random(higher - lower + 1) + lower)];
 
   while (lower <= higher) {
     while (list[lower] < pivot) {
